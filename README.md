@@ -1,3 +1,12 @@
+
+<table>
+  <tr>
+    <th><img src="image.gif" width=240 ></th>
+    <th><h1><pre>     <b>Sarath<br>                    Raveendran</b></pre></h1></th>
+  </tr>
+
+</table>
+
 ![](http://www.iconarchive.com/download/i104147/custom-icon-design/flatastic-9/Eye.ico) ![](http://www.iconarchive.com/download/i104147/custom-icon-design/flatastic-9/Eye.ico)
 
 # Portfolio
@@ -11,3 +20,4 @@ Hey there!, I'm Sarath.
 * HTML
 * CSS
 * C++ 
+
