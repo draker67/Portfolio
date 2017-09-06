@@ -15,14 +15,15 @@ Hey there!, I'm Sarath.
 Humans are multifarous.
 <br>
 I like to <i>Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
-# Vision
+<h2>Vision</h2>
+
 > To live conciously,<br>
 > To live a life without regret,<br>
 > and to live in the eternal pursuit of truth
 
 # Programmar
 
-# Vision
+<h2>Vision</h2>
 
 >To code is to create, To create is to contribute.
 
@@ -32,7 +33,7 @@ Coding shall be my chisel when I carve the world in my dreams
 and the world is wood,
 coding shall be my chisel!</i>
 
-## TECHNICAL SKILLS:
+### TECHNICAL SKILLS:
 
 * <a href="https://github.com/draker67/Python"><b>Python</b></a>
 * <a href=""><b>HTML</b></a>
