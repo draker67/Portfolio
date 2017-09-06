@@ -12,6 +12,18 @@
 # Portfolio
 Hey there!, I'm Sarath. 
 
+Humans are multifarous.
+<br>
+I like to <i>Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
+# Vision
+> To live conciously,<br>
+> To live a life without regret,<br>
+> and to live in the eternal pursuit of truth
+
+# Programmar
+
+# Vision
+
 >To code is to create, To create is to contribute.
 
 Coding shall be my chisel when I carve the world in my dreams
