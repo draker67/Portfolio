@@ -14,6 +14,7 @@ Hey there!, I'm Sarath.
 
 I, as a human, is destined to be multifarous.
 <br>
+
 I like to <i>Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
 <h2>Vision</h2>
 
