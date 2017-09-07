@@ -15,7 +15,7 @@ Hey there!, I'm Sarath.
 I, as a human, is destined to be multifarous.
 <br>
 
-I like to <i>Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
+<i>I like to Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
 <h2>Vision</h2>
 
 > To live conciously,<br>
@@ -28,11 +28,8 @@ I like to <i>Code</i>, <i>I like to draw</i>, <i>I like to explore.</i>
 
 >To code is to create, To create is to contribute.
 
-Coding shall be my chisel when I carve the world in my dreams
+<i>Coding shall be my chisel when I carve the world in my dreams</i>
 
-<i>If I am a sculpter,
-and the world is wood,
-coding shall be my chisel!</i>
 
 ### TECHNICAL SKILLS:
 
