@@ -20,7 +20,7 @@ I, as a human, is destined to be multifarous.
 
 > To live conciously,<br>
 > To live a life without regret,<br>
-> and to live in the eternal pursuit of truth
+> and to live in the eternal pursuit of the truth
 
 # Programmar
 
